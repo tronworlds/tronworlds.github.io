@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5c4202d250f78bf006143ba28bee77cb",
-    "url": "/static/media/02.5c4202d2.jpg"
+    "revision": "f054f5264ef85f55cef7eb49b5af1d5c",
+    "url": "/static/media/01.f054f526.jpg"
   },
   {
-    "revision": "c6e6ca76d4f3c51ee291",
-    "url": "/static/css/main.39fbed13.chunk.css"
+    "revision": "4e3c994e7a8537e43d6a",
+    "url": "/static/css/main.f14d777c.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -16,20 +16,28 @@ self.__precacheManifest = [
     "url": "/static/media/Castle.8d4202fd.jpg"
   },
   {
-    "revision": "042baa2b35de4228f0d0",
-    "url": "/static/js/2.042baa2b.chunk.js"
+    "revision": "242eefb70f7955108f47",
+    "url": "/static/js/2.242eefb7.chunk.js"
   },
   {
     "revision": "3963fa0ae78b915ee1fffac7913df9c9",
     "url": "/static/media/logo.3963fa0a.png"
   },
   {
-    "revision": "f054f5264ef85f55cef7eb49b5af1d5c",
-    "url": "/static/media/01.f054f526.jpg"
+    "revision": "eb8a18708085fd38b78d9932eb0da14c",
+    "url": "/static/media/discord.eb8a1870.png"
   },
   {
-    "revision": "c6e6ca76d4f3c51ee291",
-    "url": "/static/js/main.c6e6ca76.chunk.js"
+    "revision": "d4d3f4e0ead46b1472c5104cee7fac59",
+    "url": "/static/media/telegram.d4d3f4e0.png"
+  },
+  {
+    "revision": "4e3c994e7a8537e43d6a",
+    "url": "/static/js/main.4e3c994e.chunk.js"
+  },
+  {
+    "revision": "5c4202d250f78bf006143ba28bee77cb",
+    "url": "/static/media/02.5c4202d2.jpg"
   },
   {
     "revision": "928819472dfadeac4818093513bc9e27",
@@ -48,11 +56,11 @@ self.__precacheManifest = [
     "url": "/static/media/06.afb822a0.jpg"
   },
   {
-    "revision": "042baa2b35de4228f0d0",
+    "revision": "242eefb70f7955108f47",
     "url": "/static/css/2.41ebb51f.chunk.css"
   },
   {
-    "revision": "f6f1952c0c4e98e5c9797e797435313b",
+    "revision": "c59a4610e0b43f19926412b54cffa008",
     "url": "/index.html"
   }
 ];

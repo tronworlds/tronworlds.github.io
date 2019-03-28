@@ -1,17 +1,17 @@
 {
-  "main.css": "/static/css/main.39fbed13.chunk.css",
-  "main.js": "/static/js/main.c6e6ca76.chunk.js",
-  "main.js.map": "/static/js/main.c6e6ca76.chunk.js.map",
+  "main.css": "/static/css/main.f14d777c.chunk.css",
+  "main.js": "/static/js/main.4e3c994e.chunk.js",
+  "main.js.map": "/static/js/main.4e3c994e.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
   "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
   "static/css/2.41ebb51f.chunk.css": "/static/css/2.41ebb51f.chunk.css",
-  "static/js/2.042baa2b.chunk.js": "/static/js/2.042baa2b.chunk.js",
-  "static/js/2.042baa2b.chunk.js.map": "/static/js/2.042baa2b.chunk.js.map",
+  "static/js/2.242eefb7.chunk.js": "/static/js/2.242eefb7.chunk.js",
+  "static/js/2.242eefb7.chunk.js.map": "/static/js/2.242eefb7.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.381ebaf319c6e89076da06a5d5c49e5f.js": "/precache-manifest.381ebaf319c6e89076da06a5d5c49e5f.js",
+  "precache-manifest.b3b283cab02fd394ce6daf6f91852f00.js": "/precache-manifest.b3b283cab02fd394ce6daf6f91852f00.js",
   "service-worker.js": "/service-worker.js",
   "static/css/2.41ebb51f.chunk.css.map": "/static/css/2.41ebb51f.chunk.css.map",
-  "static/css/main.39fbed13.chunk.css.map": "/static/css/main.39fbed13.chunk.css.map",
+  "static/css/main.f14d777c.chunk.css.map": "/static/css/main.f14d777c.chunk.css.map",
   "static/media/01.jpg": "/static/media/01.f054f526.jpg",
   "static/media/02.jpg": "/static/media/02.5c4202d2.jpg",
   "static/media/03.jpg": "/static/media/03.92881947.jpg",
@@ -19,5 +19,7 @@
   "static/media/05.jpg": "/static/media/05.8d9a8e5b.jpg",
   "static/media/06.jpg": "/static/media/06.afb822a0.jpg",
   "static/media/App.css": "/static/media/Castle.8d4202fd.jpg",
-  "static/media/logo.png": "/static/media/logo.3963fa0a.png"
+  "static/media/discord.png": "/static/media/discord.eb8a1870.png",
+  "static/media/logo.png": "/static/media/logo.3963fa0a.png",
+  "static/media/telegram.png": "/static/media/telegram.d4d3f4e0.png"
 }
