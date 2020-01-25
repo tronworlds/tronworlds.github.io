@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding-top: 60px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("img/Castle.jpg");
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.App {
+  text-align: center;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.navbar {
+  background-color: rgba(10, 0, 0, 0.6);
+  color: white;
+}
+
+.TextBox {
+  min-height: 214px;
+  max-width: 600px;
+  border-color: rgba(0, 30, 30, 0.6);
+  border-width: 3px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 20px;
+}
+
+.card-body img {
+  border-color: rgba(0, 30, 30, 0.6);
+  border-width: 3px;
+  border-style: solid;
+}
+
+.BottomInfo {
+  color: white;
+}
+
+footer {
+  padding-top: 10px;
+  background-color: rgba(10, 0, 0, 0.6);
+  color: white;
+  height: 70px;
+}
+
+.nav-link {
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
